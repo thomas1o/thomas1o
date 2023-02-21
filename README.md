@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Thomas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me thomasbiju43210@gmail.com
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning Kotlin and Java
+- 💞️ I’m looking to collaborate on Android Development Projects
 
 <!---
 thomas1o/thomas1o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
