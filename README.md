@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin and Java
+- 🌱 I’m currently learning DSA, OOPS, Kotlin and Java
 - 💞️ I’m looking to collaborate on Android Development Projects
 
 <!---
