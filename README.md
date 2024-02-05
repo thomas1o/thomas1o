@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning React Native and Go.
+- 🌱 I’m currently learning React Native.
 - 💞️ I’m looking to collaborate on Android Development Projects
 
 <!---
